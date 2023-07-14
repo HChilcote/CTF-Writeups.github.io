@@ -4,10 +4,10 @@ description: "Blog Description" # This will show up in places like twitter, link
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "chilcote7@mail.com"
+#email: ""
 #twitter_username: "twitteruser"
 github_username: "HChilcote"
-linkedin_username: "Hunter Chilcote"
+#linkedin_username: "Hunter Chilcote"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
